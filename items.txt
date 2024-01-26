@@ -1,0 +1,40 @@
+Name: Genuine Midas Knuckles
+Sell Listings: 11
+Sell Price Text: $21.62
+Icon Url: -9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUzpRhVSUHZVPDi2sbXUk5LLgpCtbGpLhQv3vrMcC5959Kjl4uHkuS6ar2DwzNS6Z0oi-2U8dSt2QDmqEVsZz31coCdJgE_aVDTrlC4xu--14j84srEY2_T4Q
+
+Name: Genuine Razzil's Midas Knuckles
+Sell Listings: 19
+Sell Price Text: $3.72
+Icon Url: -9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUzpRhVSUHZVPDixc7JSVR4Njtav76kODhr3ebLejFH_5OklZqRnvvnDLbYkmpC185_n-rK-Ynmxg2y-UZkMDj7LdfBd1I2aVnU-AK4weq7g8C6tMnOyHpruXQj43jczkepwUYb7_94yPw
+
+Name: Genuine Eternal Radiance Blades
+Sell Listings: 100
+Sell Price Text: $28.18
+Icon Url: -9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUzpRhVSUHZVPDi0tvWQVN1KTtFt76sKglj1szKfTxG6c_5kZSOhfn1P4TDl29Y6ctyj9bD-Y3xjUf6_BJlN27wI4aUIwQ5Z1rZrAS3xLq7hZDovZSfn3RhsiYl7XyLzkOxgwYMMLKI_9BaMA
+
+Name: Autographed Razzil's Midas Knuckles
+Sell Listings: 26
+Sell Price Text: $3.18
+Icon Url: -9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUzpRhVSUHZVPDixc7JSVR4Njtav76kODhr3ebLejFH_5OklZqRnvvnDLbYkmpC185_n-rK-Ynmxg2y-UZkMDj7LdfBd1I2aVnU-AK4weq7g8C6tMnOyHpruXQj43jczkepwUYb7_94yPw
+
+Name: Taunt: Ogre Hop
+Sell Listings: 913
+Sell Price Text: $0.07
+Icon Url: -9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXX4BlROpl9vRpIQljvTuei2fDSX158IAlepa6aJABy1szAfi0Mudjux4Hdla-jZ72AzjgDuJEl2rjH99mh2wC1_0ZkazqmcIfBcwE4NEaQpAYbU2H2pg
+
+Name: Inscribed Razzil's Midas Knuckles
+Sell Listings: 192
+Sell Price Text: $2.41
+Icon Url: -9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUzpRhVSUHZVPDixc7JSVR4Njtav76kODhr3ebLejFH_5OklZqRnvvnDLbYkmpC185_n-rK-Ynmxg2y-UZkMDj7LdfBd1I2aVnU-AK4weq7g8C6tMnOyHpruXQj43jczkepwUYb7_94yPw
+
+Name: Razzil's Midas Knuckles
+Sell Listings: 145
+Sell Price Text: $2.83
+Icon Url: -9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUzpRhVSUHZVPDixc7JSVR4Njtav76kODhr3ebLejFH_5OklZqRnvvnDLbYkmpC185_n-rK-Ynmxg2y-UZkMDj7LdfBd1I2aVnU-AK4weq7g8C6tMnOyHpruXQj43jczkepwUYb7_94yPw
+
+Name: Corrupted Razzil's Midas Knuckles
+Sell Listings: 1
+Sell Price Text: $11.21
+Icon Url: -9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUzpRhVSUHZVPDixc7JSVR4Njtav76kODhr3ebLejFH_5OklZqRnvvnDLbYkmpC185_n-rK-Ynmxg2y-UZkMDj7LdfBd1I2aVnU-AK4weq7g8C6tMnOyHpruXQj43jczkepwUYb7_94yPw
+
