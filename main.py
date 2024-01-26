@@ -1,22 +1,34 @@
 import requests
-from flask import Flask
+from flask import Flask, request
+from flask_cors import CORS, cross_origin
 
 app = Flask(__name__)
+CORS(app)
+
 
 @app.route('/')
 def hello_world():
     return 'Hello, Flask!, we are live'
 
-@app.route('/dota')
-def hello_dota():
-    return 'this is the dota route'
+@app.route('/test', methods=['POST'])
+def handle_request():
+    data = request.json
+    print('Received data:', data)
+    # Process the data as needed
+    return 'Data received successfully'
 
-@app.route('/search')
+@app.route('/search', methods=['POST'])
+@cross_origin()
 def fetch_item_data():
-    url = "https://steamcommunity.com/market/search/render/?query=appid%3A570&start=0&count=100&norender=1&category_570_Rarity[]=tag_Rarity_Immortal&category_570_Hero[]=tag_npc_dota_hero_alchemist"
+    data = request.json
+    heroID = data.get('selectedHeroId')
+    rarityID = data.get('selectedRarityId')
+    print
+
+    url_template = "https://steamcommunity.com/market/search/render/?query=appid%3A570&start=0&count=100&norender=1&category_570_Rarity[]=tag_Rarity_{rarityID}&category_570_Hero[]=tag_npc_dota_hero_{heroID}"
+    url = url_template.format(heroID=heroID, rarityID=rarityID)
 
     response = requests.get(url)
-
     data = response.json()
 
     item_list = []
@@ -33,16 +45,7 @@ def fetch_item_data():
         }
         item_list.append(item_details)
 
-    # Writing item details to a text file
-    with open("items.txt", "w") as file:
-        for item in item_list:
-            file.write(f"Name: {item['name']}\n")
-            file.write(f"Sell Listings: {item['sell_listings']}\n")
-            file.write(f"Sell Price Text: {item['sell_price_text']}\n")
-            file.write(f"Icon Url: {item['icon_url']}\n")
-            file.write("\n")
-
-    return "Item data fetched and written to items.txt"
+    return item_list
 
 
 
@@ -60,8 +63,3 @@ if __name__ == '__main__':
 #   item icons are structured with this link:
 #   https://community.cloudflare.steamstatic.com/economy/image/{data}
 #   with data being pulled directly from {asset_description} and then the child {icon_url}
-#
-#
-#
-#
-#
